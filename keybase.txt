@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/0x03c6
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://0x03c6.com
+  * I am 0x03c6 (https://keybase.io/0x03c6) on keybase.
+  * I have a public key with fingerprint A590 D0A2 2852 E2D2 D81D  E887 22D7 D3F3 29A1 8B1F
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014fc27d9d2fcaa36a80efd2b1ea81c41bce7ed7c2f0fea8a03b3a35ee1ec440f00a",
+      "fingerprint": "a590d0a22852e2d2d81de88722d7d3f329a18b1f",
+      "host": "keybase.io",
+      "key_id": "22d7d3f329a18b1f",
+      "kid": "01014fc27d9d2fcaa36a80efd2b1ea81c41bce7ed7c2f0fea8a03b3a35ee1ec440f00a",
+      "uid": "acd80e622e304e0da7a62ba4fb7f5519",
+      "username": "0x03c6"
+    },
+    "service": {
+      "hostname": "0x03c6.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1671864559,
+  "expire_in": 157680000,
+  "prev": "a116925c63829da5fa501388aece4c160bd0a8c3525773d7eaa93e57c09bfd6f",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUntQVFUcXh7KywdSg9FoLjcoyAXvY+9jdyCQhw1GKSSDYcx67rnnshdkd9m7
+oARklGgMTDwUo2EYy0kakCRLYUIaCkNSQFlgJFKC0DGwTBFHsq3sXib/aKY/O/+c
+Od/5vu/3/X7nVC/30Hi7YWMj8+EfVqxz65/lNbDpg7kijLcKhZixCMtBixvaJSDZ
+YcqRBMyI4QRO6EVIsoJBIEUIAMUADkeiQPIEAhwB9QQPEYsEFpIiLioQwCmeAhSN
+EIGgXo+LOA4wHSZKlixkt9kli0OxBbQBF3BAkhxNIlIgBY4QEMexJCmwAiVSpAEQ
+HE+IitBslVWFEo4HMoqUrAqmHEyL8f6D/z/nzl+0A1BQ1AxJIgrXI1wALGBIHuhF
+nhVpmjCoRBnZLSAXqcX34BRksBIdpmAFEkTqWNU+/nUfCa25is5mtzqs0LpLwc0O
+h002qjpHoU0l7ka86R8LEy9ZBGWGiqIA2WXJasGMhMKEDkn1JBiW4Bg9TRt0GNpj
+k+zIJKkMmmU4XFlqHVSgdkIQjIGkIUNx20iDAGgR0DhBcRxAEOkhweC88jAcpGiS
+ZllKYBEABgrRLMQNvCgw6ohllGexYka9khNkKZ6ylGUBjnw7wkp8y90pT42bt2Zt
+YLDnseqho2Gp08PfrZ058OjfLXFXP53G18f/EXK+y1/zZXVr5djrLd234663hTtC
+4wObhjx25PifDP8R++bs2KaNE0/cfX9Am/Z2YHPrg6uj2Q1tqKd5ab/cFf1Loytw
+WdBHx8Pei2J/D9Y11iWszAxqzaZ6e74vBufGQ65kbO5M99l7paGv9sSg8zdh8qR3
+hqusY+PYaZdT++yllyKLW9o9O157MmZncl1C6DSeFj6apV2uC7ram9DstbJzNl9T
+Ouzdu2a25qnh1fPjuVs+zTzufizPdquOgS/UBj22L9567bqv0xlcG3Ku494bbWj1
+zcqerILq/fXp/ETpH4dMeV0wk555+mBgnJ8lF3aH3ukZYVK++qRiUucyDfa37a9n
+vGwvx96JKp3Tbgie+2Fydivsemci0TXzxUJd2obppIQ/a27nT9j7zY3tlZ9/HZPo
+xJnzTabhYmEwQD/aGnGjLHbFjvIVU0V88qUzv8KG7SPapQO2QehVklpmfPVyxYm0
+G+l58kLnvbtunUnmC6e2LYt4dx0bcbGsZff8/YyS8djyF5v9osOmouNvxT1Ycmi9
+/DCse5X8lpNr/qyie2vlzr9C3nwcI6ueWWPUFE59TBuutZ+JYAf4fUk5fafMBy9e
+Fk/3vZK4yWf9FnPL2VUergv9GeTRvTXpfj8HB8Q8LDwy83xK1WRiauvQwlCU/XBy
+5JGb9ZHfRkxMVz3Hpt0fyx6JTUr5aXtAojb+bw==
+=yjfF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/0x03c6
+
+==================================================================
+
