@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog</title>
-    <link>https://0x03c6.github.io/</link>
+    <link>https://0x03c6.com/</link>
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright @ 0x03c6</copyright><atom:link href="https://0x03c6.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright @ 0x03c6</copyright><atom:link href="https://0x03c6.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://0x03c6.github.io/about/</link>
+      <link>https://0x03c6.com/about/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://0x03c6.github.io/about/</guid>
+      <guid>https://0x03c6.com/about/</guid>
       <description>Hello, I&amp;rsquo;m 0x03c6.
 My interests include programming, compiler theory, theoretical computer science, vulnerability research and playing CTFs.
 Feel free to look around, this site is primarily a place to store and archive challenge writeups, explanations, notes on topics I&amp;rsquo;m currently researching, or just rants.
@@ -35,10 +35,10 @@ explanations, notes on topics I&amp;rsquo;m currently researching, or just rants
     
     <item>
       <title>Welcome</title>
-      <link>https://0x03c6.github.io/posts/welcome/</link>
+      <link>https://0x03c6.com/posts/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://0x03c6.github.io/posts/welcome/</guid>
+      <guid>https://0x03c6.com/posts/welcome/</guid>
       <description>hello there</description>
       <content>&lt;p&gt;hello there&lt;/p&gt;
 </content>
